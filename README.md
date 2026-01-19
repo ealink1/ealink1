@@ -8,7 +8,7 @@
 
 <p align="center">
   🧑‍💻 Go 开发者 | 💡 热爱开源 | 🌱 持续学习中<br>
-  📧 Email: <a href="mailto:935549961@qq.com">935549961@qq.com</a>
+  📧 Email: <a href="mailto:935549961@qq.com">935549961@qq.com</a><br>
   📧 wechat: <a href="mailto:Breelk">Breelk</a>
 </p>
 
